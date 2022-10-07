@@ -8,5 +8,7 @@ body {
 }
 
 .card {
+  margin: 20 px;
+  padding: 20 px;
   flex: 1 1 30%; 
 }
