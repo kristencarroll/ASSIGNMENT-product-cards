@@ -1,3 +1,12 @@
 body {
   background-color: hotpink;
 }
+
+.the-cards {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.card {
+  flex: 1 1 30%; 
+}
